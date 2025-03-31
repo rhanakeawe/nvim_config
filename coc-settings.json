@@ -1,0 +1,10 @@
+{
+  "svelte.enable-ts-plugin": true,  // Enable TypeScript plugin for SvelteKit
+  "coc.preferences.formatOnSaveFiletypes": ["svelte"],  // Auto-format Svelte files on save
+  "svelte.lint.enable": true,  // Enable linting for Svelte files
+  "svelte.plugin.typescript.enable": true,  // Enable TypeScript support in SvelteKit
+  "coc.preferences.snippetSupport": true,  // Enable snippets
+  "svelte.enable": true,  // Enable Svelte support
+  "svelte.plugin.sveltekit.enable": true  // Enable SvelteKit support
+}
+
